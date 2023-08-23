@@ -1,0 +1,75 @@
+[31-Jul-2023 15:25:23 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/invest.php on line 14
+[31-Jul-2023 15:25:23 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/invest.php on line 48
+[31-Jul-2023 21:41:55 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 13
+[31-Jul-2023 21:41:55 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 47
+[31-Jul-2023 21:41:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 232
+[31-Jul-2023 21:41:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 262
+[31-Jul-2023 21:41:55 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 134
+[01-Aug-2023 15:00:42 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 13
+[01-Aug-2023 15:00:42 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 47
+[01-Aug-2023 15:00:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 232
+[01-Aug-2023 15:00:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 262
+[01-Aug-2023 15:00:42 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 147
+[01-Aug-2023 15:09:46 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 13
+[01-Aug-2023 15:09:46 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 47
+[01-Aug-2023 15:09:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 232
+[01-Aug-2023 15:09:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/withdrawal.php on line 262
+[01-Aug-2023 15:09:46 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 147
+[09-Aug-2023 21:25:06 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[09-Aug-2023 21:25:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[09-Aug-2023 21:25:06 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[09-Aug-2023 21:25:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[09-Aug-2023 21:25:06 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[10-Aug-2023 12:40:06 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[10-Aug-2023 12:40:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[10-Aug-2023 12:40:07 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[10-Aug-2023 12:40:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[10-Aug-2023 12:40:07 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[10-Aug-2023 16:16:48 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[10-Aug-2023 16:16:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[10-Aug-2023 16:16:48 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[10-Aug-2023 16:16:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[10-Aug-2023 16:16:48 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[10-Aug-2023 16:49:23 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[10-Aug-2023 16:49:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[10-Aug-2023 16:49:23 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[10-Aug-2023 16:49:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[10-Aug-2023 16:49:23 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[10-Aug-2023 16:49:36 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[10-Aug-2023 16:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[10-Aug-2023 16:49:36 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[10-Aug-2023 16:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[10-Aug-2023 16:49:36 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[11-Aug-2023 01:36:03 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[11-Aug-2023 01:36:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[11-Aug-2023 01:36:03 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[11-Aug-2023 01:36:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[11-Aug-2023 01:36:03 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[11-Aug-2023 03:31:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/idmegatr/public_html/fxpro-market.com/config/dbcon.php on line 8
+[11-Aug-2023 03:31:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/idmegatr/public_html/fxpro-market.com/config/dbcon.php on line 8
+[11-Aug-2023 03:31:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/idmegatr/public_html/fxpro-market.com/config/dbcon.php on line 8
+[11-Aug-2023 05:41:01 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 13
+[11-Aug-2023 05:41:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 51
+[11-Aug-2023 05:41:01 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 65
+[11-Aug-2023 05:41:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/idmegatr/public_html/fxpro-market.com/user/pages/deposit.php on line 274
+[11-Aug-2023 05:41:01 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/functions/userfunctions.php on line 139
+[11-Aug-2023 22:21:01 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/user/pages/invest.php on line 14
+[11-Aug-2023 22:21:01 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/user/pages/invest.php on line 48
+[12-Aug-2023 14:13:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 350
+[12-Aug-2023 14:13:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 350
+[12-Aug-2023 14:14:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 489
+[12-Aug-2023 14:14:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 489
+[12-Aug-2023 14:14:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 489
+[12-Aug-2023 14:15:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 489
+[12-Aug-2023 14:16:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 489
+[12-Aug-2023 14:21:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 489
+[12-Aug-2023 14:30:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 490
+[12-Aug-2023 14:30:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 490
+[12-Aug-2023 14:30:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 490
+[12-Aug-2023 14:35:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491
+[12-Aug-2023 14:35:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491
+[12-Aug-2023 14:36:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491
+[12-Aug-2023 14:38:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491
+[12-Aug-2023 14:41:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491
+[12-Aug-2023 14:41:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491
+[12-Aug-2023 14:41:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idmegatr/public_html/fxpro-market.com/user/pages/plans.php on line 491

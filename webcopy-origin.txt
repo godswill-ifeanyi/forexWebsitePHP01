@@ -1,0 +1,892 @@
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\ajax\libs\jquery\1.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Mulish:wght@500;900&display=swap
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto Condensed
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8-BP5q.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8-BP5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8aBf5q.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8aBf5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8GBv5q.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8GBv5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8WAf5q.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8WAf5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc9iB_5q.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc9iB_5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc9yAv5q.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc9yAv5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cfe6.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\nunitosans\v12\pe0qMImSLYBIv1o4X1M8cfe6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://leopardsignalslt.com/
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\index.htm
+Content Type: text/html
+
+Uri: https://leopardsignalslt.com/?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\index-1.htm
+Content Type: text/html
+
+Uri: https://leopardsignalslt.com/account/login.php
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\account\login.php.html
+Content Type: text/html
+
+Uri: https://leopardsignalslt.com/account/register.php
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\account\register.php.html
+Content Type: text/html
+
+Uri: https://leopardsignalslt.com/account/reset.php
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\account\reset.php.html
+Content Type: text/html
+
+Uri: https://leopardsignalslt.com/account/style/style.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\account\style\style.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/assets/img/footer-bg.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\assets\img\footer-bg.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/assets/img/hero-bg.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\assets\img\hero-bg.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/assets/img/team-shape.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\assets\img\team-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/add-search-to-menu/public/css/ivory-search4f24.css?ver=4.4.6
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\add-search-to-menu\public\css\ivory-search4f24.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/add-search-to-menu/public/images/mCSB_buttons.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\add-search-to-menu\public\images\mCSB_buttons.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/add-search-to-menu/public/js/ivory-search4f24.js?ver=4.4.6
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\add-search-to-menu\public\js\ivory-search4f24.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/click-to-chat-for-whatsapp/prev/assets/css/mdstyle8ba3a.css?ver=1.7.2
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\click-to-chat-for-whatsapp\prev\assets\css\mdstyle8ba3a.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/public/assets/css/animate.min972f.css?ver=5.0.1
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\public\assets\css\animate.min972f.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/public/assets/css/style.min972f.css?ver=5.0.1
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\public\assets\css\style.min972f.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/public/assets/js/script.min972f.js?ver=5.0.1
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\public\assets\js\script.min972f.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/css/all.min8040.css?ver=5.12
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\css\all.min8040.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-brands-400d41d.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-regular-400d41d.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/mwp-herd-effect/vendors/fontawesome/webfonts/fa-solid-900d41d.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\mwp-herd-effect\vendors\fontawesome\webfonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/css/display-opinions-light6619.css?ver=5.2.5
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\css\display-opinions-light6619.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/css/font-awesome.min6619.css?ver=5.2.5
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\css\font-awesome.min6619.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont3295.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont3295.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont3295.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont3295.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont3295.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont3295.ttf
+Content Type: font/ttf
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont3295.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont3295.woff2
+Content Type: font/woff2
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont3295.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont3295.woff
+Content Type: font/woff
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ninja-forms/assets/img/help-info.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ninja-forms\assets\img\help-info.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ultimate-member/assets/js/um-account.minb381.js?ver=2.0.56
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ultimate-member\assets\js\um-account.minb381.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ultimate-member/assets/js/um-members.minb381.js?ver=2.0.56
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ultimate-member\assets\js\um-members.minb381.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ultimate-member/assets/js/um-profile.minb381.js?ver=2.0.56
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ultimate-member\assets\js\um-profile.minb381.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/ultimate-member/assets/js/um-scripts.minb381.js?ver=2.0.56
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\ultimate-member\assets\js\um-scripts.minb381.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min3088.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min3088.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min3088.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min3088.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min6b25.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/css/dashicons.min6619.css?ver=5.2.5
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\css\dashicons.min6619.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/fonts/dashicons2ce6.eot?50db0456fde2a241f005968eede3f987
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\fonts\dashicons2ce6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/fonts/dashicons2ce6.ttf?50db0456fde2a241f005968eede3f987
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\fonts\dashicons2ce6.ttf
+Content Type: font/ttf
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/js/mediaelement/mediaelementplayer-legacy.min45a0.css?ver=4.2.6-78496d1
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\js\mediaelement\mediaelementplayer-legacy.min45a0.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/js/mediaelement/wp-mediaelement.min6619.css?ver=5.2.5
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\js\mediaelement\wp-mediaelement.min6619.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/auto/wp-includes/js/wp-embed.min6619.js?ver=5.2.5
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\auto\wp-includes\js\wp-embed.min6619.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/bootstrap/v5/tp.widget.bootstrap.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap\v5\tp.widget.bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/css/app.css?id=562f73afc1ab7a0b963c
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\css\app.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/css/flag.css?id=903e5663da1c9bf98235
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\css\flag.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/img/android-icon.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\android-icon.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/apple-icon.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\apple-icon.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/banner-bg-ao.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\banner-bg-ao.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/browser.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\browser.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/client-icon.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\client-icon.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/deposit-methods.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\deposit-methods.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/down-terminal-icon.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\down-terminal-icon.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/forex-vps-2.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\forex-vps-2.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/icon-card.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-card.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-deposit.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-deposit.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-energies.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-energies.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-free.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-free.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-futures.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-futures.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/icon-indices.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-indices.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/icon-instruments.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-instruments.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-leverage.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-leverage.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-metal.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-metal.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/icon-secure.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-secure.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/icon-speed.webp
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\icon-speed.webp
+Content Type: image/webp
+
+Uri: https://leopardsignalslt.com/img/iress-logo.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\iress-logo.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp1-sn2.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp1-sn2.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp1-sn3.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp1-sn3.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp1-sn4.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp1-sn4.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp1.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp1.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp2-sn2.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp2-sn2.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp2-sn3.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp2-sn3.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp2-sn4.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp2-sn4.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp2.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp2.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp3-sn2.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp3-sn2.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp3-sn3.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp3-sn3.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp3-sn4.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp3-sn4.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp3.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp3.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp4-sn2.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp4-sn2.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp4-sn3.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp4-sn3.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp4-sn4.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp4-sn4.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/lp4.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\lp4.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/macbook-code-editor.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\macbook-code-editor.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/market-sentiment-tool.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\market-sentiment-tool.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/mt4-logo.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\mt4-logo.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/mt5-logo.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\mt5-logo.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/nab.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\nab.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/right-arrow-wht.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\right-arrow-wht.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/img/trademax-EA.gif
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\trademax-EA.gif
+Content Type: image/gif
+
+Uri: https://leopardsignalslt.com/img/window-icon.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\img\window-icon.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/imgsrc/back.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\imgsrc\back.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/imgsrc/logo.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\imgsrc\logo.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/imgsrc/uploadimage.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\imgsrc\uploadimage.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/ind.html
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\ind.html
+Content Type: text/html
+
+Uri: https://leopardsignalslt.com/js/app.js?id=5cd95c877336e722101a
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\js\app.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/js/footer.js?id=2bf345df5ee83ef911ba
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\js\footer.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/logo.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\logo.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/miner.gif
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\miner.gif
+Content Type: image/gif
+
+Uri: https://leopardsignalslt.com/npm/jquery.cookie@1.4.1/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\npm\jquery.cookie@1.4.1\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://leopardsignalslt.com/testimonial/1246.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\1246.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/testimonial/666.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\666.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/testimonial/7.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\7.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/testimonial/777.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\777.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/testimonial/8888.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\8888.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/testimonial/9009.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\9009.jpg
+Content Type: image/jpeg
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/css/stylee222.css?ver=142
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\css\stylee222.css
+Content Type: text/css
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/bg-404.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\bg-404.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/bg-login-dark.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\bg-login-dark.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/bg-shape-b-zinnia.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\bg-shape-b-zinnia.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/bg-shape-zinnia.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\bg-shape-zinnia.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/check.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\check.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/contdown-shape-zinnia.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\contdown-shape-zinnia.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/footer-bg-azure.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\footer-bg-azure.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/footer-bg.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\footer-bg.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/header-shape-lobelia.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\header-shape-lobelia.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/header-shape-zinnia.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\header-shape-zinnia.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/jasmine-footer-bg.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\jasmine-footer-bg.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/lavender-mask.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\lavender-mask.svg
+Content Type: image/svg+xml
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/line.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\line.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/lungwort-footer-bg.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\lungwort-footer-bg.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/mask-line-a.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\mask-line-a.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/mask-line-b.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\mask-line-b.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/mask-line-c.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\mask-line-c.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/mask-line-d.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\mask-line-d.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/pattern-azure-dark.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\pattern-azure-dark.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/pattern-azure-light.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\pattern-azure-light.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/pattern-muscari-light.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\pattern-muscari-light.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/pattern-salvia.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\pattern-salvia.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/shape-a-red.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\shape-a-red.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/shape-a-wh.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\shape-a-wh.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/shape-b-red.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\shape-b-red.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/shape-b-wh.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\shape-b-wh.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/user-shape-b.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\user-shape-b.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/testimonial/wp-content/themes/cryptotify/assets/images/user-shape.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\testimonial\wp-content\themes\cryptotify\assets\images\user-shape.png
+Content Type: image/png
+
+Uri: https://leopardsignalslt.com/ukdoc.jpg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\ukdoc.jpg
+Content Type: image/jpeg
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\external-embedding\embed-widget-market-overview.js
+Content Type: text/javascript
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/bootstrap-select-country@4.0.0/dist/css/bootstrap-select-country.min.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap-select-country@4.0.0\dist\css\bootstrap-select-country.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/bootstrap-select-country@4.0.0/dist/css/images/flags16.png
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap-select-country@4.0.0\dist\css\images\flags16.png
+Content Type: image/png
+
+Uri: https://unpkg.com/bootstrap-select-country@4.0.0/dist/js/bootstrap-select-country.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap-select-country@4.0.0\dist\js\bootstrap-select-country.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/bootstrap-select@1.12.4/dist/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap-select@1.12.4\dist\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/bootstrap-select@1.12.4/dist/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap-select@1.12.4\dist\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/bootstrap@3.3.7/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\bootstrap@3.3.7\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/jquery@3.4.1/dist/jquery.min.js
+File Name: C:\Downloaded Web Sites\leopardsignalslt.com\jquery@3.4.1\dist\jquery.min.js
+Content Type: application/javascript
+

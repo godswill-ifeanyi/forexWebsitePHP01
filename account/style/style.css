@@ -1,0 +1,93 @@
+*{margin:0%;padding:0%;}
+body{font-family:'Roboto Condensed';
+                font-weight:bold;}
+#form{position:absolute;
+            width:100%;
+            background-size: cover;
+            background-image: url(../../imgsrc/back.jpg);
+            background-attachment:fixed;
+            padding:0em;
+            display:block;
+            }
+            
+#form form{position:relative;
+            width:35em;
+            height:auto;
+            padding:0em;
+            line-height:1em;
+            background-color:rgba(25,25,65,0.9);}
+            
+            
+#form form p{color:white;
+            font-size:18pt;
+                font-weight: bold;}
+            
+            
+#form form .lab{color:white;
+                font-size:13pt;
+                font-family:'Roboto Condensed';
+                font-weight:bold;
+                line-height:1em;}
+                
+#form form input[type=text],input[type=email],input[type=password],select,input[type=number]{outline:none;
+                            border-radius:5px;
+                            display:block;
+                            width:20em;
+                            height:2.5em;
+                            font-weight:bold;
+                            border:none;
+                            text-indent: 0.5em;
+                            font-size:11pt;}
+                            
+#form form input[type=submit]{outline:none;
+                            border-radius:5px;
+                            display:block;
+                            width:20em;
+                            height:2.5em;
+                            background:black;
+                            font-weight:bold;
+                            color:white;
+                            border:none;
+                            font-size:11pt;}
+                            
+                            
+                            
+@media screen and (max-width:50em){
+#form form{position:relative;
+            width:100%;
+            height:auto;
+            padding:0em;
+            line-height:1em;
+            background-color:rgba(25,25,65,0.9);}
+            
+            
+#form form p{color:white;
+            font-size:18pt;
+                font-weight: bold;}
+            
+            
+#form form .lab{color:white;
+                font-size:13pt;
+                line-height:1em;}
+                
+#form form input[type=text],input[type=email],input[type=password],select,input[type=number]{outline:none;
+                            border-radius:5px;
+                            display:block;
+                            width:90%;
+                            height:2.5em;
+                            border:none;
+                            text-indent: 0.5em;
+                            font-size:11pt;}
+                            
+#form form input[type=submit]{outline:none;
+                            border-radius:5px;
+                            display:block;
+                            width:90%;
+                            height:2.5em;
+                            background:black;
+                            font-weight:bold;
+                            color:white;
+                            border:none;
+                            font-size:11pt;}
+
+}

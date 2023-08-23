@@ -1,0 +1,70 @@
+[31-Jul-2023 12:03:07 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[31-Jul-2023 12:41:09 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[31-Jul-2023 13:50:46 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[01-Aug-2023 13:57:14 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[02-Aug-2023 15:55:21 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[02-Aug-2023 17:09:11 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[03-Aug-2023 15:18:29 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[03-Aug-2023 15:34:39 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[06-Aug-2023 06:24:19 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[08-Aug-2023 09:58:06 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[08-Aug-2023 21:58:51 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[10-Aug-2023 07:49:16 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[10-Aug-2023 09:39:02 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[11-Aug-2023 16:06:32 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[11-Aug-2023 16:55:34 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[11-Aug-2023 16:58:04 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[11-Aug-2023 20:29:13 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[11-Aug-2023 20:30:44 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[12-Aug-2023 15:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestment() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 286
+[12-Aug-2023 15:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalInvestments() in /home/idmegatr/public_html/fxpro-market.com/admin/index.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 283
+[13-Aug-2023 03:28:47 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[13-Aug-2023 10:34:46 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[14-Aug-2023 10:44:33 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46
+[14-Aug-2023 12:25:33 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/index.php on line 46

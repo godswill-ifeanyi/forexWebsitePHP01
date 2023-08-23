@@ -1,0 +1,6 @@
+[31-Jul-2023 10:46:25 UTC] PHP Notice:  Undefined index: plan in /home/idmegatr/public_html/fxpro-market.com/admin/pages/deleteuser.php on line 14
+[31-Jul-2023 17:28:50 UTC] PHP Notice:  Undefined index: sessionid in /home/idmegatr/public_html/fxpro-market.com/admin/pages/plans.php on line 13
+[31-Jul-2023 17:28:50 UTC] PHP Notice:  Undefined index: sessionname in /home/idmegatr/public_html/fxpro-market.com/admin/pages/plans.php on line 48
+[13-Aug-2023 04:23:14 UTC] PHP Notice:  Undefined index: plan in /home/idmegatr/public_html/fxpro-market.com/admin/pages/deleteuser.php on line 14
+[13-Aug-2023 04:23:21 UTC] PHP Notice:  Undefined index: plan in /home/idmegatr/public_html/fxpro-market.com/admin/pages/deleteuser.php on line 14
+[13-Aug-2023 04:23:30 UTC] PHP Notice:  Undefined index: plan in /home/idmegatr/public_html/fxpro-market.com/admin/pages/deleteuser.php on line 14

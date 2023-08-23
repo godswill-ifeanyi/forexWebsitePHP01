@@ -1,0 +1,6 @@
+/*! ========= INFORMATION ============================
+  - document:  Wow Herd Effects Pro
+  - author:    Wow-Company
+  - email:     support@wow-company.com
+  - url:       https://wow-estore.com/item/wow-herd-effects-pro/
+ ==================================================== */.notification{display:none;z-index:9999999999;position:fixed}.notification-close{position:absolute;right:5px;top:5px;font-size:24px;cursor:pointer;display:none;height:15px;width:15px;line-height:15px;color:#fff}.notification-block{display:flex}.notification-img{width:60px;display:flex;justify-content:center;background:rgba(0,0,0,.75);color:#fff}.notification-img img{width:40px;align-self:center}.notification-img span{align-self:center}.notification-text-block{width:200px;height:auto;padding:10px;background:rgba(0,0,0,.75);color:#fff}.notification-title{color:#fff}.notification-text p{margin:0;padding:0}
